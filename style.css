@@ -1,0 +1,29 @@
+body {
+  background-color: black;
+}
+h1 {
+  color: yellowgreen;
+  background-color: yellow;
+  text-align: center;
+  font-size: 50px;
+}
+p {
+  color: red;
+  font-size: 20px;
+  text-align: centre;
+}
+a {
+  color: white;
+  font-size: 20px;
+}
+h3 {
+  color: red;
+  text-decoration: underline;
+}
+ol {
+  font-size: 20px;
+  color: green;
+}
+table {
+  color: indigo;
+}
